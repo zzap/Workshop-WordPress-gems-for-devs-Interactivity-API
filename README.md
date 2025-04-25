@@ -1,2 +1,2 @@
-# Workshop-WordPress-gems-for-devs-Interactivity-API
+# WordPress gems for devs: Interactivity API
 The workshop repo
