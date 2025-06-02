@@ -1,0 +1,11 @@
+# Ignore everything in the root directory
+*
+# Except:
+!.gitignore
+!README.md
+!LICENSE
+
+# Keep these plugins
+!wp-content/plugins/toggle/**/*
+!wp-content/plugins/toggle-count/**/*
+!wp-content/plugins/test/**/*
