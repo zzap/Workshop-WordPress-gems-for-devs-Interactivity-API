@@ -4,7 +4,7 @@ Repository for code examples and resources used in the "WordPress gems for devs:
 
 | Event  | Date | Branch | Links |
 | --- | --- | --- | --- |
-| WordCamp Europe 2025 | 7 June 2025 | [conf/WordCamp-Europe-2025]() | [Event](https://europe.wordcamp.org/2025/session/wordpress-gems-for-devs-interactivity-api/) \| [Slides](https://docs.google.com/presentation/d/1panbzQEAYhiZW5rMsxR5ZSh4bhUyVkuRDJvqXzxITJY/edit?usp=sharing) |
+| WordCamp Europe 2025 | 7 June 2025 | [conf/WordCamp-Europe-2025]() | [Event](https://europe.wordcamp.org/2025/session/wordpress-gems-for-devs-interactivity-api/) \| [Slides](https://docs.google.com/presentation/d/1panbzQEAYhiZW5rMsxR5ZSh4bhUyVkuRDJvqXzxITJY/edit?usp=sharing) |\ [Registration](https://europe.wordcamp.org/2025/workshop-registration/) |
 
 ToC:
 
