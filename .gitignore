@@ -4,6 +4,13 @@
 !.gitignore
 !README.md
 !LICENSE
+!assets/*
+!wp-content/
+
+wp-content/*
+!wp-content/plugins/
+
+wp-content/plugins/*
 
 # Keep these plugins
 !wp-content/plugins/toggle/**/*
