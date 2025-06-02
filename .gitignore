@@ -6,13 +6,11 @@
 !LICENSE
 !assets/*
 !wp-content/
-
 wp-content/*
 !wp-content/plugins/
-
 wp-content/plugins/*
 
-# Keep these plugins
-!wp-content/plugins/toggle/**/*
-!wp-content/plugins/toggle-count/**/*
-!wp-content/plugins/test/**/*
+# # Keep these plugins
+!wp-content/plugins/toggle/
+!wp-content/plugins/toggle-count/
+!wp-content/plugins/test/
