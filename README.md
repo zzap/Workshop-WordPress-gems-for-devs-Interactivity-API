@@ -126,7 +126,7 @@ wp plugin activate test
 
 Examples in production:
 
-- [Podcaster Plus](https://www.podcasterplus.com/) plugin by Dan Maby and Nathan Wrigley
+- [Podcaster Plus](https://www.podcasterplus.com/) plugin by [Dan Maby](https://github.com/danmaby) and [Nathan Wrigley](https://nathanwrigley.com/)
 
 ## Resources
 
