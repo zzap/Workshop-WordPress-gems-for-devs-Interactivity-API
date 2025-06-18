@@ -3,6 +3,8 @@
  */
 import { store, getContext } from '@wordpress/interactivity';
 
+// const storeOther = store( 'other' );
+
 const { state } = store( 'wpgems', {
 	state: {
 		get themeText() {
@@ -13,6 +15,11 @@ const { state } = store( 'wpgems', {
 		toggleOpen() {
 			const context = getContext();
 			context.isOpen = ! context.isOpen;
+			if ( context.isOpen ) {
+				state.toggleCount++;
+				// storeOther.state.toggleCount++;
+			}
+			// storeOther.actions.toggleTheme();
 		},
 		toggleTheme() {
 			state.isDark = ! state.isDark;
