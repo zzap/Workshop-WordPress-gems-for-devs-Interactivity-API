@@ -10,7 +10,17 @@ wp-content/*
 !wp-content/plugins/
 wp-content/plugins/*
 
-# # Keep these plugins
+# Keep these plugins
 !wp-content/plugins/toggle/
+!wp-content/plugins/toggle/**/*
 !wp-content/plugins/toggle-count/
+!wp-content/plugins/toggle-count/**/*
 !wp-content/plugins/test/
+!wp-content/plugins/test/**/*
+!wp-content/plugins/block-1/
+!wp-content/plugins/block-1/**/*
+!wp-content/plugins/block-2/
+!wp-content/plugins/block-2/**/*
+!wp-content/plugins/block-3/
+!wp-content/plugins/block-3/**/*
+
