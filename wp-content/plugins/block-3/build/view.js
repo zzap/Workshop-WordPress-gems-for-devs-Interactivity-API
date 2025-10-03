@@ -1,0 +1,1 @@
+import{getContext as t,store as e}from"@wordpress/interactivity";const{state:s}=e("custom",{state:{get themeText(){return s.isDark?s.darkText:s.lightText}},actions:{toggleOpen(){const e=t();e.isOpen=!e.isOpen},toggleTheme(){s.isDark=!s.isDark}},callbacks:{logIsOpen:()=>{const{isOpen:e}=t();console.log(`Is open: ${e}`)}}});
