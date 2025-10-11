@@ -42,15 +42,14 @@ wp_interactivity_state(
 		data-wp-bind--aria-expanded="context.isOpen"
 		aria-controls="<?php echo esc_attr( $unique_id ); ?>"
 	>
-		<?php esc_html_e( 'Toggle', 'toggle' ); ?>
+		<span class="screen-reader-text"><?php esc_html_e( 'Search', 'toggle' ); ?></span>
+        <span class="dashicons dashicons-search"></span>
 	</button>
 
-	<p
+	<div
 		id="<?php echo esc_attr( $unique_id ); ?>"
 		data-wp-bind--hidden="!context.isOpen"
 	>
-		<?php
-			esc_html_e( 'Toggle - hello from an interactive block!', 'toggle' );
-		?>
-	</p>
+		<?php get_search_form(); ?>
+    </div>
 </div>

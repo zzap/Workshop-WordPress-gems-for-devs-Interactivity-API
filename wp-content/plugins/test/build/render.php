@@ -13,6 +13,8 @@
 // Generates a unique id for aria-controls.
 $unique_id = wp_unique_id( 'p-' );
 
+// $wpgems = wp_interactivity_state( 'wpgems' );
+
 // Adds the global state.
 wp_interactivity_state(
 	'other',
@@ -21,6 +23,7 @@ wp_interactivity_state(
 		'darkText'  => esc_html__( 'Switch to Light', 'test' ),
 		'lightText' => esc_html__( 'Switch to Dark', 'test' ),
 		'themeText'	=> esc_html__( 'Switch to Dark', 'test' ),
+        // 'toggleCount' => $wpgems['toggleCount'],
 	)
 );
 ?>
@@ -32,6 +35,8 @@ wp_interactivity_state(
 	data-wp-watch="callbacks.logIsOpen"
 	data-wp-class--dark-theme="state.isDark"
 >
+    <p>Toggle above opened <span data-wp-text="state.toggleCount">X</span> times.</p>
+
 	<button
 		data-wp-on--click="actions.toggleTheme"
 		data-wp-text="state.themeText"
