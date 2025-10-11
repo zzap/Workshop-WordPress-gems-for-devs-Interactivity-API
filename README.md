@@ -4,6 +4,7 @@ Repository for code examples and resources used in the "WordPress gems for devs:
 
 | Event  | Date | Branch | Links |
 | --- | --- | --- | --- |
+| Valve office, Helsinki, Finland | 9 October 2025 | [workshop/Valve](https://github.com/zzap/Workshop-WordPress-gems-for-devs-Interactivity-API/tree/workshop/Valve) | [Slides](https://docs.google.com/presentation/d/14g9ClA18KoeWRFRnj52i013v3-Xj2_pyG4f3QFh46SI/edit?usp=sharing) |
 | WordCamp Europe 2025 | 7 June 2025 | [conf/WordCamp-Europe-2025](https://github.com/zzap/Workshop-WordPress-gems-for-devs-Interactivity-API/tree/conf/WordCamp-Europe-2025) | [Event](https://europe.wordcamp.org/2025/session/wordpress-gems-for-devs-interactivity-api/) \| [Slides](https://docs.google.com/presentation/d/1panbzQEAYhiZW5rMsxR5ZSh4bhUyVkuRDJvqXzxITJY/edit?usp=sharing) \| [Video](https://wordpress.tv/2025/06/07/wordpress-gems-for-devs-interactivity-api-2/) |
 
 ToC:
