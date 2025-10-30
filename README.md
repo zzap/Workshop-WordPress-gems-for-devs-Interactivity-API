@@ -127,6 +127,7 @@ wp plugin activate test
 
 Examples in production:
 
+- [mainostoimistot.fi](https://mainostoimistot.fi/) - [Query Loop Filters](https://github.com/samikeijonen/query-filter/tree/seravo) by [Sami Keijonen](https://github.com/samikeijonen/), forked from [humanmade/query-filter](https://github.com/humanmade/query-filter)
 - [Podcaster Plus](https://www.podcasterplus.com/) plugin by [Dan Maby](https://github.com/danmaby) and [Nathan Wrigley](https://nathanwrigley.com/)
 
 ## Resources
